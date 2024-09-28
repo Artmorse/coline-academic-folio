@@ -1,4 +1,4 @@
-baseURL: https://academic-folio.netlify.app
+baseURL: https://artmorse.github.io/coline-academic-folio/
 languageCode: en
 title: Academic Folio
 copyright: © Copyright 2024 The Academic Folio Contributors
@@ -8,6 +8,8 @@ theme: academic-folio
 enableEmoji: true
 
 enableRobotsTXT: true
+
+relativeURLs: true
 
 markup:
   highlight:
