@@ -65,7 +65,7 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;source media=(min-width:600px) srcset="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/events/welcome/sample_hu4629805964371259719.webp" type="image/webp" />
+ &lt;source media=(min-width:600px) srcset="./coline-academic-folio/events/welcome/sample_hu4629805964371259719.webp" type="image/webp" />
  
 
 
@@ -80,15 +80,8 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;source media=(min-width:768px) srcset="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/events/welcome/sample_hu12430788228301260686.webp" type="image/webp" />
+ &lt;source media=(min-width:768px) srcset="./coline-academic-folio/events/welcome/sample_hu12430788228301260686.webp" type="image/webp" />
  
-
-
- 
- 
- 
- 
-
 
 
  
@@ -106,6 +99,13 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
 
 
  
+ 
+ 
+ 
+
+
+
+ 
 
  
  
@@ -117,7 +117,7 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;source srcset="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/events/welcome/sample_hu5624812988247920953.webp" type="image/webp" />
+ &lt;source srcset="./coline-academic-folio/events/welcome/sample_hu5624812988247920953.webp" type="image/webp" />
  
 
 
@@ -137,7 +137,7 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;img src="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/events/welcome/sample.jpg" height="833" width="1280"
+ &lt;img src="./coline-academic-folio/events/welcome/sample.jpg" height="833" width="1280"
  alt="alt" loading="lazy" />
  &lt;/picture>
 
@@ -169,7 +169,7 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;source media=(min-width:600px) srcset="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/researches/welcome/sample_hu4629805964371259719.webp" type="image/webp" />
+ &lt;source media=(min-width:600px) srcset="./coline-academic-folio/researches/welcome/sample_hu4629805964371259719.webp" type="image/webp" />
  
 
 
@@ -184,15 +184,8 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;source media=(min-width:768px) srcset="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/researches/welcome/sample_hu12430788228301260686.webp" type="image/webp" />
+ &lt;source media=(min-width:768px) srcset="./coline-academic-folio/researches/welcome/sample_hu12430788228301260686.webp" type="image/webp" />
  
-
-
- 
- 
- 
- 
-
 
 
  
@@ -210,6 +203,13 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
 
 
  
+ 
+ 
+ 
+
+
+
+ 
 
  
  
@@ -221,7 +221,7 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;source srcset="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/researches/welcome/sample_hu5624812988247920953.webp" type="image/webp" />
+ &lt;source srcset="./coline-academic-folio/researches/welcome/sample_hu5624812988247920953.webp" type="image/webp" />
  
 
 
@@ -241,7 +241,7 @@ Love&lt;strong>is&lt;/strong>bold&lt;/p>
  
  
  
- &lt;img src="https://artmorse.github.io/coline-academic-folio/coline-academic-folio/researches/welcome/sample.jpg" height="833" width="1280"
+ &lt;img src="./coline-academic-folio/researches/welcome/sample.jpg" height="833" width="1280"
  alt="alt" loading="lazy" />
  &lt;/picture>
 
