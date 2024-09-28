@@ -1,15 +1,15 @@
-firstName: Albert
-lastName: Einstein
+firstName: Coline
+lastName: Metta-Versmessen
 
-email: einstein@example.org
+email: c.mettaversmessen@gmail.com
 
-description: Albert Einstein's personal website powered by the Academic Folio theme
+description: PhD student at Dauphine, PSL university, Climate Economics Chair, EDF R&D
 
 favicon: ⚛️ # You can either enter an emoji or the name of an image file present in `assets/img` folder
 
-footerText: >
-  Powered by <a href="https://gohugo.io">Hugo</a> with
-  <a href="https://github.com/rohandebsarkar/academic-folio">Academic Folio</a> theme
+# footerText: >
+#   Powered by <a href="https://gohugo.io">Hugo</a> with
+#   <a href="https://github.com/rohandebsarkar/academic-folio">Academic Folio</a> theme
 
 tags: # these tags would be added as keywords in metadata for website
 - academic-folio
@@ -22,7 +22,7 @@ maxWidth: 1024px
 
 navbarTitle: true # displays the title in the navbar on non home pages
 
-footerLastUpdated: true
+# footerLastUpdated: true
 
 recentPosts: 5 # number of recent posts to show in home page
 showRecentPosts: true
